@@ -47,9 +47,9 @@
         <source src="images/openbb_terminal_illustration.mp4" type="video/mp4">
       </video>
     <p>test2<p>
-    [![video](images/openbb_terminal_illustration.mp4)](https://www.youtube.com/watch?v=fqGPK8OVHLk)
+    
 </p>
-
+[![video](images/openbb_terminal_illustration.mp4)](https://www.youtube.com/watch?v=fqGPK8OVHLk)
   <p align="center">
     Investment research for everyone.
     <br />
