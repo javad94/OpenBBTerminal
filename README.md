@@ -46,6 +46,8 @@
    <video alt="OpenBB Terminal Illustration" width="100%" autoplay muted loop>
         <source src="images/openbb_terminal_illustration.mp4" type="video/mp4">
       </video>
+    <p>test2<p>
+    [![video](images/openbb_terminal_illustration.mp4)](https://www.youtube.com/watch?v=fqGPK8OVHLk)
 </p>
 
   <p align="center">
