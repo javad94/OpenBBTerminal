@@ -44,9 +44,7 @@
       </video>
    </a>
    <p>test</p>
-   <video alt="OpenBB Terminal Illustration" width="100%" autoplay muted loop>
-        <source src="images/openbb_terminal_illustration.mp4" type="video/mp4">
-      </video>
+   <video src="images/openbb_terminal_illustration.mp4" autoplay muted loop></video>
     <p>test2<p>
 </p>
   <p align="center">
