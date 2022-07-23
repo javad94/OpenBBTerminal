@@ -25,6 +25,7 @@
 ![Discord Shield](https://discordapp.com/api/guilds/831165782750789672/widget.png?style=shield)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/openbb_finance.svg?style=social&label=Follow%20%40openbb_finance)](https://twitter.com/openbb_finance)
 
+[![video](images/openbb_terminal_illustration.mp4)](https://www.youtube.com/watch?v=fqGPK8OVHLk)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -47,9 +48,7 @@
         <source src="images/openbb_terminal_illustration.mp4" type="video/mp4">
       </video>
     <p>test2<p>
-    
 </p>
-[![video](images/openbb_terminal_illustration.mp4)](https://www.youtube.com/watch?v=fqGPK8OVHLk)
   <p align="center">
     Investment research for everyone.
     <br />
